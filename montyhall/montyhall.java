@@ -1,6 +1,3 @@
-/*
-    Challenge: Write a program illustrating the Monty Hall program
-*/
 import java.util.*;
 
 class MontyHall {
