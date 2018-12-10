@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://richardtaylordawson.github.io/codingchallenges/">
-    <img src="https://freeiconshop.com/wp-content/uploads/edd/code-flat.png" alt="Code icon" width=72 height=72>
+    <img src="https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Html-512.png" alt="Code icon" width=72 height=72>
   </a>
 
   <h3 align="center">Coding Challenges</h3>
