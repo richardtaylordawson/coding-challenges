@@ -23,7 +23,7 @@
 ## Status
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/richardtaylordawson/codingchallenges.svg)](https://github.com/richardtaylordawson/codingchallenges/commits/master)
 [![GitHub Search Hit Counter](https://img.shields.io/github/search/richardtaylordawson/codingchallenges/goto.svg)](https://github.com/richardtaylordawson/codingchallenges/)
-[![Codacy Grade Badge](https://api.codacy.com/project/badge/Grade/02ee35b7c3e14b6da802677e73fbdb32)](https://www.codacy.com/app/richardtaylordawson/codingchallenges?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=richardtaylordawson/codingchallenges&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f20d38611d2c4b5592b5708811897c49)](https://www.codacy.com/app/richardtaylordawson/codingchallenges?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=richardtaylordawson/codingchallenges&amp;utm_campaign=Badge_Grade)
 [![GitHub Repo Size in Bytes](https://img.shields.io/github/repo-size/richardtaylordawson/codingchallenges.svg)](https://github.com/richardtaylordawson/codingchallenges/)
 [![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/richardtaylordawson/codingchallenges.svg)](https://github.com/richardtaylordawson/codingchallenges/)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/richardtaylordawson/codingchallenges.svg)](https://github.com/richardtaylordawson/codingchallenges/)

@@ -1,0 +1,32 @@
+#!/bin/bash
+
+gcc pthreads.c
+
+for i in {1..13}
+    do
+        case "$i" in
+        1) let threshold=1;;
+        2) let threshold=2;;
+        3) let threshold=5;;
+        4) let threshold=10;;
+        5) let threshold=20;;
+        6) let threshold=30;;
+        7) let threshold=40;;
+        8) let threshold=50;;
+        9) let threshold=60;;
+        10) let threshold=70;;
+        11) let threshold=80;;
+        12) let threshold=90;;
+        13) let threshold=100;;
+        *) let threshold = 1;;
+
+        esac
+            echo "Threshold: $threshold";
+            for j in {1..5}
+                do
+                    time ./a.out $threshold;
+                    echo "Try $j: ";
+			done
+done
+
+exit 0
