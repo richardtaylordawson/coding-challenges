@@ -19,7 +19,3 @@
 [![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/richardtaylordawson/codingchallenges.svg)](https://github.com/richardtaylordawson/codingchallenges/)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/richardtaylordawson/codingchallenges.svg)](https://github.com/richardtaylordawson/codingchallenges/)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/richardtaylordawson/codingchallenges.svg)](https://github.com/richardtaylordawson/codingchallenges/)
-
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=@richard_codes)
-[![Twitter Follow](https://img.shields.io/twitter/follow/richard_codes.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=richard_codes)
-[![GitHub followers](https://img.shields.io/github/followers/richardtaylordawson.svg?label=Follow&style=social)](https://github.com/richardtaylordawson/)
